@@ -3,18 +3,16 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            int health;
+        {   int healthChar;
             byte armor;
-            bool test;
+            bool skillCheck;
             float resistance;
             short exp;
             string dialogue;
-            char rank;
+            char itemRank;
             long money;
             ulong damage;
             uint endurance;
-
         }
     }
 }
